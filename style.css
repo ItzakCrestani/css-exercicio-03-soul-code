@@ -1,0 +1,32 @@
+body {
+  background-image: linear-gradient(to top, gray, rgb(219, 219, 219));
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  margin: 50px;
+}
+
+h2 {
+}
+
+section {
+  background-color: red;
+  padding: 20px;
+}
+
+div {
+  background-color: green;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+p {
+}
+
+footer {
+  color: white;
+  margin: 50px;
+}
